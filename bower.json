@@ -1,0 +1,22 @@
+{
+  "name": "InflectionDemo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "qingfengwuyou <h3658686@126.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/qingfeng365/InflectionDemo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha"
+  }
+}
